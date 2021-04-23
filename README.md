@@ -1,20 +1,21 @@
 # Pizza-Deliciosa
 ## Author
+https://github.com/Bria222
 
-[Owiti-Charles](https://github.com/Owiti-Charles)
 
-### Version
-07.2019/001
+
 
 ## Description
 
 This is a web application for Pizza Deliciosa which is a pizza selling venture, that shows details about the services and diffent pizza they sell, their menu and also allows customers to order online for their preferred pizza depending on size, crust they need and also allows them to input a location which they would love the piza to be delivered to. 
 
 ## Screenshot
-<img src="https://raw.githubusercontent.com/Owiti-Charles/Pizza-Deliciosa/master/images/pizzashop.png" width="900px" height="440px">
+![Screenshot (60)](https://user-images.githubusercontent.com/64264883/115910113-1e374680-a475-11eb-9b0d-6c1848923938.png)
+![Screenshot (59)](https://user-images.githubusercontent.com/64264883/115910137-25f6eb00-a475-11eb-80ac-e77040419477.png)
+
 
 ## Live Page 
-https://Owiti-charles.github.io/Pizza-Deliciosa 
+ 
 
 
 ## Installation / Setup instruction
@@ -54,9 +55,9 @@ https://Owiti-charles.github.io/Pizza-Deliciosa
 
 ## Contact Information 
 
-If you have any question or contributions that would better this app, please email me at [mikeycharlesm7@gmail.com]
+If you have any question or contributions that would better this app, please email me at [briantechologies.co.ke@gmail.com]
 
 ## License
 * *MIT License:*
-* Copyright (c) 2019 **Owiti Charles**
+* Copyright (c) 2021 **Bria222**
 
